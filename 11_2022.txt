@@ -1,0 +1,6 @@
+[29/Nov/2022 00:59:35] {auth} User Струневский authenticated from 192.100.100.11 using Automatic
+[29/Nov/2022 01:03:41] {auth} User Струневский authenticated from 178.172.246.252 using SSL
+[29/Nov/2022 01:19:10] {auth} User Струневский authenticated from 192.100.100.11 using Automatic
+[29/Nov/2022 01:23:10] {auth} User Струневский authenticated from 192.100.100.11 using Automatic
+[29/Nov/2022 11:08:42] {auth} User Струневский authenticated from 176.60.15.167 using SSL
+[29/Nov/2022 14:37:50] {auth} User Струневский authenticated from 86.57.251.160 using SSL
