@@ -1,9 +1,0 @@
-[02/Jun/2023 15:40:10] {auth} User Струневский authenticated from 86.57.251.160 using SSL
-[05/Jun/2023 09:14:23] {auth} User Струневский authenticated from 176.60.15.18 using SSL
-[05/Jun/2023 11:59:01] {auth} User Струневский authenticated from 86.57.251.160 using SSL
-[09/Jun/2023 15:55:21] {auth} User Струневский authenticated from 86.57.251.160 using SSL
-[12/Jun/2023 09:04:43] {auth} User Струневский authenticated from 86.57.251.160 using SSL
-[14/Jun/2023 09:24:06] {auth} User Струневский authenticated from 86.57.251.160 using SSL
-[19/Jun/2023 12:11:08] {auth} User Струневский authenticated from 86.57.251.160 using SSL
-[23/Jun/2023 09:09:35] {auth} User Струневский authenticated from 178.172.246.252 using SSL
-[23/Jun/2023 14:00:35] {auth} User Струневский authenticated from 86.57.216.235 using SSL
